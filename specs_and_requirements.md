@@ -1,4 +1,4 @@
-# Project: NiaH-CaseHoldings-Ita: Needle-in-a-Haystack Eval with Italian Case Holdings
+# Project: NiaH-CaseHoldings-Ita: Legal Needle-in-a-Haystack Eval with Italian Case Holdings
 
 ## 1. Task Overview
 
