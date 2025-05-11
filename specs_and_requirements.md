@@ -1,4 +1,4 @@
-# Project: LLM Needle-in-a-Haystack Evaluation for Italian Legal Precedents
+# Project: NiaH-CaseHoldings-Ita: Needle-in-a-Haystack Eval with Italian CaseHoldings
 
 ## 1. Task Overview
 
